@@ -1,89 +1,27 @@
-<div align="center">
-  <!-- ENCABEZADO ANIMADO EN ONDAS - ROSA PASTEL -->
-  <img src="https://vercel.app|%20Software%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff&descColor=fff0f5" alt="Header Wave"/>
-
-  <!-- MÁQUINA DE ESCRIBIR ANIMADA ROSA PASTEL -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://demolab.com" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://utr.edu.mx"><img src="https://shields.io" alt="Education" /> </a>
-  <img src="https://shields.io" alt="Location" />
-</div>
-<br>
-
-<div align="center">
-  <a href="#"><img src="https://shields.io" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:tu-correo@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-</div>
-<br>
-
-<div align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-  <img src="https://shields.io" alt="Followers" />
-  <img src="https://shields.io" alt="Stars" />
-</div>
+# ¡Hola! Soy [Tu Nombre] ![GIF Saludo](https://i.pinimg.com/originals/d2/44/8b/d2448b86fc4f03ccbd1163f297be7d93.gif)
+![GIF Banner](https://i.pinimg.com/originals/ae/52/d9/ae52d968e7d8117170d2eeff6245ca5c.gif)
 
 ---
 
-## ✦ About Me
+### 💙 Sobre Mí
 
-I am a Software Developer and Cybersecurity student focused on building secure digital environments and elegant interfaces. With a strong commitment to data integrity and system hardening, I specialize in combining protective measures with user-centric development. My philosophy centers on writing clean, readable code and managing stable deployment infrastructure.
+* 🔹 Estoy trabajando en **[Tus proyectos]**
+* 🔹 Aprendiendo actualmente **[Tecnologías]**
+* 🔹 Me interesa **[Tus intereses]**
+* 🔹 Contáctame en: **[Tu correo o red social]**
 
-I actively explore custom system environments (Linux configurations) and automate optimization workflows. As an advocate for high-fidelity technical implementation, I aim to merge defensive security practices seamlessly into scalable web architecture.
-
-<div align="center">
-  <img src="https://shields.io" alt="Open To" />
-</div>
-
----
-
-## 🎀 Tech Stack
-
-**Languages**
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</div>
-<br>
-
-**Frontend & Design**
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</div>
-<br>
-
-**Sec & Tooling**
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</div>
+![GIF Lateral o Central](https://i.pinimg.com/1200x/39/57/51/3957516ae4fe665125e270057bd3b835.jpg)
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://vercel.app" alt="Zuriel Stats" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## ✦ Featured Projects
-
-<details>
-<summary><b>🛡️ SecureVault</b></summary>
-<br>
-A credential management platform engineered with strict focus on local password hashing, encryption principles, and resilient layout design.
-
-| Stack | Focus | Encryption | Status | Repository |
-| :--- | :--- | :--- | :--- | :--- |
-| React, Node.js | Defensive Coding | AES-256 | Completed | [![Repo](https://shields.io)](/)|
-</details>
+![GIF Pie de Página](https://i.pinimg.com/736x/0c/c4/ff/0cc4ff55a6f9920ff98b39c9d0435e16.jpg)
