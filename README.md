@@ -1,5 +1,5 @@
-# ¡Hola! Soy [Tu Nombre] ![GIF Saludo](https://i.pinimg.com/originals/ae/52/d9/ae52d968e7d8117170d2eeff6245ca5c.gif)
-![GIF Banner](https://i.pinimg.com/originals/ae/52/d9/ae52d968e7d8117170d2eeff6245ca5c.gif)
+# ¡Hola! Soy [Zuriel Valencia (Zuri)] ![GIF Saludo](https://i.pinimg.com/736x/0c/c4/ff/0cc4ff55a6f9920ff98b39c9d0435e16.jpg)
+![GIF Banner]()
 
 ---
 
@@ -24,4 +24,4 @@
 
 ---
 
-![GIF Pie de Página](https://i.pinimg.com/736x/0c/c4/ff/0cc4ff55a6f9920ff98b39c9d0435e16.jpg)
+![GIF Pie de Página]()
