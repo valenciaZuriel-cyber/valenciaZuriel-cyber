@@ -1,41 +1,42 @@
-<!-- ENCABEZADO ANIMADO EN ONDAS - ROSA PASTEL -->
+<!-- ENCABEZADO ANIMADO (TEXTO ROSA PASTEL EN MOVIMIENTO) -->
 <p align="center">
-  <img src="https://vercel.app¡Hola,%20soy%20tu%20nombre!%20🌸&fontSize=35&animation=fadeIn&fontColor=ffffff" alt="Header" />
+  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
-<!-- EFECTO DE ESCRITURA ANIMADA (MÁQUINA DE ESCRIBIR) -->
 <p align="center">
-  <img src="https://herokuapp.com+✨;Amante+del+diseño+minimalista+☁️;Bienvenido%2F@+a+mi+espacio+seguro+💕" alt="Typing SVG" />
+  <img src="https://giphy.com" width="60%" alt="Pastel Ribbon Divider">
 </p>
 
 <br>
 
 <!-- SOBRE MÍ -->
-## 🎀 Sobre Mí
+## 🌸 Sobre Mí
 
 <p align="left">
-Un párrafo suave sobre quién eres. Por ejemplo: "Me apasiona crear interfaces web hermosas, accesibles y con colores pastel. Actualmente estoy aprendiendo nuevas tecnologías y colaborando en proyectos de código abierto."
+¡Hola! Me alegra que estés aquí. Soy una apasionada del desarrollo web y del diseño que ama crear interfaces cómodas, funcionales y con una estética limpia.
 </p>
 
-* ☕ **Intereses:** Diseño UI/UX, desarrollo web y café artesanal.
-* 🚀 **Objetivo:** Crear tecnología que se sienta cómoda y bonita de usar.
-* 🦄 **Dato curioso:** ¡Organizo mis carpetas de código por paletas de colores!
+* ☕ **Interesada en:** Desarrollo Frontend, diseño de interfaces (UI/UX) y tecnología.
+* 🚀 **Mi enfoque:** Código ordenado, accesible y visualmente agradable.
+* ✨ **Dato curioso:** ¡Me encanta organizar todo por paletas de colores pastel!
 
 <br>
 
 <!-- TECNOLOGÍAS CON BADGES ROSA PASTEL -->
 ## 💻 Mis Tecnologías
 
-Aquí tienes algunas de las herramientas que utilizo diariamente, personalizadas con una estética rosa suave:
+Aquí tienes algunas de las herramientas que utilizo, adaptadas a una paleta rosa suave:
 
-| Frontend | Backend & Herramientas |
-| :---: | :---: |
-| <img src="https://shields.io" /> <img src="https://shields.io" /> | <img src="https://shields.io" /> <img src="https://shields.io" /> |
-| <img src="https://shields.io" /> <img src="https://shields.io" /> | <img src="https://shields.io" /> <img src="https://shields.io" /> |
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 <br>
 
-<!-- ESTADÍSTICAS EN DISEÑO ROSA -->
+<!-- ESTADÍSTICAS EN ROSA -->
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -44,19 +45,19 @@ Aquí tienes algunas de las herramientas que utilizo diariamente, personalizadas
 
 <br>
 
-<!-- REDES SOCIALES ANIMADAS / BONITAS -->
-## 🌸 Conectemos
+<!-- CONECTEMOS -->
+## 💕 Conectemos
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:TU_CORREO@gmail.com">
+<p align="left">
+Si quieres platicar sobre algún proyecto o simplemente saludar, ¡puedes encontrarme aquí!
+</p>
+
+<p align="left">
+  <a href="mailto:tu-correo@ejemplo.com">
     <img src="https://shields.io" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" width="100%" />
+  <img src="https://giphy.com" width="100px" alt="Cute Sparkles">
 </p>
