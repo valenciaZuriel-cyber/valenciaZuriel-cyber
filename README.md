@@ -1,73 +1,62 @@
-<div align="center">
-  <h1>👋 ¡Hola! Soy <a href="https://tu-sitio-web.com">[Tu Nombre/Nick]</a></h1>
-  <p><strong>Desarrollador / Diseñador / Apasionado de la Tecnología</strong></p>
-
-  <!-- Frase chida o descripción corta -->
-  <p><i>"Transformando café en código y problemas complejos en soluciones simples."</i></p>
-
-  <p>
-    <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-    <a href="mailto:tu-correo@email.com"><img src="https://shields.io" alt="Email"></a>
-    <a href="https://twitter.com"><img src="https://shields.io" alt="Twitter"></a>
-  </p>
-</div>
-
----
-
-### 🚀 Sobre Mí
-
-- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto principal]**.
-- 🌱 Aprendiendo a fondo **[Tecnología que estás estudiando, ej: Next.js, Go, IA]**.
-- 💬 Pregúntame sobre **[Tus temas fuertes, ej: React, Backend, CSS]**.
-- ⚡ Dato curioso: **[Algo divertido sobre ti, ej: Puedo resolver un cubo de Rubik en un minuto]**.
-
----
-
-### 🛠️ Mi Stack Tecnológico
-
-#### Frontend
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Tailwind" />
+<!-- ENCABEZADO ANIMADO EN ONDAS - ROSA PASTEL -->
+<p align="center">
+  <img src="https://vercel.app¡Hola,%20soy%20tu%20nombre!%20🌸&fontSize=35&animation=fadeIn&fontColor=ffffff" alt="Header" />
 </p>
 
-#### Backend & Bases de Datos
-<p align="left">
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="MongoDB" />
+<!-- EFECTO DE ESCRITURA ANIMADA (MÁQUINA DE ESCRIBIR) -->
+<p align="center">
+  <img src="https://herokuapp.com+✨;Amante+del+diseño+minimalista+☁️;Bienvenido%2F@+a+mi+espacio+seguro+💕" alt="Typing SVG" />
 </p>
 
-#### Herramientas
+<br>
+
+<!-- SOBRE MÍ -->
+## 🎀 Sobre Mí
+
 <p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="VS Code" />
+Un párrafo suave sobre quién eres. Por ejemplo: "Me apasiona crear interfaces web hermosas, accesibles y con colores pastel. Actualmente estoy aprendiendo nuevas tecnologías y colaborando en proyectos de código abierto."
 </p>
 
----
+* ☕ **Intereses:** Diseño UI/UX, desarrollo web y café artesanal.
+* 🚀 **Objetivo:** Crear tecnología que se sienta cómoda y bonita de usar.
+* 🦄 **Dato curioso:** ¡Organizo mis carpetas de código por paletas de colores!
 
-### 📊 Mis Estadísticas de GitHub
+<br>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://vercel.app" alt="Estadísticas de GitHub" />
-      </td>
-      <td>
-        <img height="180em" src="https://vercel.app" alt="Lenguajes más usados" />
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- TECNOLOGÍAS CON BADGES ROSA PASTEL -->
+## 💻 Mis Tecnologías
 
----
+Aquí tienes algunas de las herramientas que utilizo diariamente, personalizadas con una estética rosa suave:
 
-<div align="center">
-  <img src="https://komarev.com" alt="Contador de visitas" />
-</div>
+| Frontend | Backend & Herramientas |
+| :---: | :---: |
+| <img src="https://shields.io" /> <img src="https://shields.io" /> | <img src="https://shields.io" /> <img src="https://shields.io" /> |
+| <img src="https://shields.io" /> <img src="https://shields.io" /> | <img src="https://shields.io" /> <img src="https://shields.io" /> |
+
+<br>
+
+<!-- ESTADÍSTICAS EN DISEÑO ROSA -->
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
+</p>
+
+<br>
+
+<!-- REDES SOCIALES ANIMADAS / BONITAS -->
+## 🌸 Conectemos
+
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:TU_CORREO@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
