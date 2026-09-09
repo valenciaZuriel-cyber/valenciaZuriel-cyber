@@ -40,19 +40,19 @@
 ## 🎀 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&title_color=B39CD0&icon_color=FFC9E3&text_color=8A8A8A&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&title_color=B39CD0&text_color=8A8A8A&bg_color=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=valenciaZuriel-cyber&show_icons=true&hide_border=true&title_color=B39CD0&icon_color=FFC9E3&text_color=8A8A8A&bg_color=00000000" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenciaZuriel-cyber&layout=compact&hide_border=true&title_color=B39CD0&text_color=8A8A8A&bg_color=00000000" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true&background=00000000&ring=C9D6FF&fire=FFC9E3&currStreakLabel=B39CD0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valenciaZuriel-cyber&hide_border=true&background=00000000&ring=C9D6FF&fire=FFC9E3&currStreakLabel=B39CD0" />
 </p>
 
 <!-- ================= SNAKE DE CONTRIBUCIONES (animación en vivo) ================= -->
 ## 🐍 Actividad reciente
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/pastel-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/valenciaZuriel-cyber/valenciaZuriel-cyber/output/pastel-snake.svg" alt="snake animation"/>
 </p>
 
 <!-- ================= FOOTER ONDULANTE ================= -->
