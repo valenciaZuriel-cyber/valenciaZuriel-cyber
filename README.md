@@ -1,6 +1,6 @@
 <div align="center">
   <!-- ENCABEZADO ANIMADO EN ONDAS - ROSA PASTEL -->
-  <img src="https://vercel.app|%20Enterprise%20Engineering&descAlignY=55&descAlign=50&fontColor=FFF0F5&descColor=FFF0F5" alt="Header Wave"/>
+  <img src="https://vercel.app|%20Software%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff&descColor=fff0f5" alt="Header Wave"/>
 
   <!-- MÁQUINA DE ESCRIBIR ANIMADA ROSA PASTEL -->
   <a href="https://readme-typing-svg.demolab.com">
@@ -9,16 +9,15 @@
 </div>
 
 <div align="center">
-  <a href="https://utr.edu.mx/"><img src="https://shields.io" alt="Education" /> </a>
+  <a href="https://utr.edu.mx"><img src="https://shields.io" alt="Education" /> </a>
   <img src="https://shields.io" alt="Location" />
 </div>
 <br>
 
 <div align="center">
   <a href="#"><img src="https://shields.io" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/osvaldo-perez01/"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:osvelcholo17@gmail.com"><img src="https://shields.io" alt="Email" /></a>
-  <a href="https://github.com/Osva1"><img src="https://shields.io" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:tu-correo@gmail.com"><img src="https://shields.io" alt="Email" /></a>
 </div>
 <br>
 
@@ -30,11 +29,11 @@
 
 ---
 
-## 🌸 About
+## ✦ About Me
 
-I am a Software Developer focused on modern web technologies and open-source environments. With a robust foundation in multiplatform software development and system architecture, I specialize in building highly scalable, secure, and user-centric applications. My engineering philosophy revolves around a strong product mindset, ensuring that underlying codebases align seamlessly with strategic business objectives.
+I am a Software Developer and Cybersecurity student focused on building secure digital environments and elegant interfaces. With a strong commitment to data integrity and system hardening, I specialize in combining protective measures with user-centric development. My philosophy centers on writing clean, readable code and managing stable deployment infrastructure.
 
-I actively integrate robust backend architectures with refined front-end interfaces, heavily relying on CI/CD principles and system customization (Linux, Arch, Pop!_OS) to optimize deployment pipelines and software efficiency. As an advocate for high-fidelity technical design, I am continuously expanding my capabilities within AI/ML paradigms to integrate predictive analytics and intelligent automation into enterprise-grade web solutions.
+I actively explore custom system environments (Linux configurations) and automate optimization workflows. As an advocate for high-fidelity technical implementation, I aim to merge defensive security practices seamlessly into scalable web architecture.
 
 <div align="center">
   <img src="https://shields.io" alt="Open To" />
@@ -52,7 +51,7 @@ I actively integrate robust backend architectures with refined front-end interfa
 </div>
 <br>
 
-**Frontend**
+**Frontend & Design**
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev" />
@@ -60,15 +59,7 @@ I actively integrate robust backend architectures with refined front-end interfa
 </div>
 <br>
 
-**Backend & Databases**
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</div>
-<br>
-
-**Cloud, DevOps & Tooling**
+**Sec & Tooling**
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev" />
@@ -77,87 +68,22 @@ I actively integrate robust backend architectures with refined front-end interfa
 
 ---
 
-## 🪐 AI / ML Expertise
+## 📊 GitHub Stats
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Predictive Analytics** | Intermediate | Utilizing Python ecosystems for data parsing and predictive model integration within web services. |
-| **Data Architecture** | Advanced | Structuring NoSQL (MongoDB) and relational (MySQL) datasets for high-throughput machine learning pipelines. |
-| **Automation & Scraping** | Advanced | Developing intelligent bots and automated workflows for data aggregation and system optimization. |
+<p align="center">
+  <img src="https://vercel.app" alt="Zuriel Stats" />
+</p>
 
 ---
 
-## ✨ Featured Projects
+## ✦ Featured Projects
 
 <details>
-<summary><b>🛡️ UrbanAlert</b></summary>
+<summary><b>🛡️ SecureVault</b></summary>
 <br>
-A highly secure, robust web application engineered in strict adherence to ISO/IEC 25010 standards, providing resilient local alert management and service monitoring.
+A credential management platform engineered with strict focus on local password hashing, encryption principles, and resilient layout design.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Node.js, React, MongoDB | Local / Regional | Optimized Payload | ISO/IEC 25010 | Community Safety | [![Repo](https://shields.io)](/)|
-
-*Professional Explanation:* Architected the system from the ground up prioritizing absolute data integrity and system reliability. Leveraged extensive informatic security principles (SSH, HTTPS, SFTP protocols via AWS EC2) to ensure encrypted data transit and secure administrative access.
+| Stack | Focus | Encryption | Status | Repository |
+| :--- | :--- | :--- | :--- | :--- |
+| React, Node.js | Defensive Coding | AES-256 | Completed | [![Repo](https://shields.io)](/)|
 </details>
-
-<details>
-<summary><b>📝 ZenStack</b></summary>
-<br>
-A minimalist, developer-focused note-taking environment designed for high efficiency and seamless workflow integration.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| TypeScript, Astro, Tailwind | Global | ~99 Lighthouse | AES-256 (Planned) | Dev Productivity | [![Repo](https://shields.io)](/)|
-
-*Professional Explanation:* Spearheaded the complete UX/UI design phase using high-fidelity Figma mockups, mapping complex user flows into an intuitive, distraction-free interface. Engineered the frontend for maximum rendering speed and accessibility.
-</details>
-
----
-
-## 🏹 Experience
-
-**Web Portal Intern** | **Instituto de Educación de Aguascalientes**
-*Sep 2025 - Dec 2025*
-* Led the modernization of institutional web portals, transitioning legacy codebases to modern architectures.
-* Engineered robust API integrations utilizing Axios methods to ensure synchronous and secure data flow across administrative dashboards.
-* Structured components for maximum reusability and optimized DOM rendering.
-* `Web Development` `API Integration` `Axios` `JavaScript`
-
-**Ambassador and Customer Service** | **Microsoft**
-*Jan 2022 - Aug 2023*
-* Guided Xbox platform customers through sophisticated onboarding processes, ensuring seamless initiation into the ecosystem.
-* Conducted rigorous testing protocols on various applications, functions, and games within the Microsoft environment, identifying edge cases and logging critical bug reports.
-* `Customer Service` `Quality Assurance` `Microsoft Ecosystem` `Troubleshooting`
-
----
-
-## 🏆 Achievements
-
-| Recognition | Details |
-| :---: | :--- |
-| 🎓 **Degree Completion** | Successfully finalized final degree presentation for Assoc. Deg. Multiplatform Software (TSU) at Universidad Tecnológica El Retoño. |
-| 🌐 **Advanced English** | Achieved Advanced English proficiency credential through APTIS. |
-| 🔐 **Cloud Infrastructure** | Deployed scalable network infrastructure on AWS Academy, successfully configuring secure EC2 instances. |
-
----
-
-## 🎖️ Certifications
-
-**Methodology & Professional Skills**
-<img src="https://shields.io" alt="White Belt" />
-
-**Language Proficiency**
-<img src="https://shields.io" alt="APTIS" />
-
-**Cloud & Infrastructure (AWS / Cisco focus)**
-<img src="https://shields.io" alt="AWS" />
-<img src="https://shields.io" alt="Cisco" />
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-  <img src="https://shields.io" alt="LeetCode" />
-</div>
