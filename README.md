@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] ![GIF Saludo](https://i.pinimg.com/originals/d2/44/8b/d2448b86fc4f03ccbd1163f297be7d93.gif)
+# ¡Hola! Soy [Tu Nombre] ![GIF Saludo](https://i.pinimg.com/originals/ae/52/d9/ae52d968e7d8117170d2eeff6245ca5c.gif)
 ![GIF Banner](https://i.pinimg.com/originals/ae/52/d9/ae52d968e7d8117170d2eeff6245ca5c.gif)
 
 ---
