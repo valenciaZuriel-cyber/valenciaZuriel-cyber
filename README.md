@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Ubicación-Aguascalientes,%20México-F4ACB7?style=for-the-badge&labelColor=D8829D&logoColor=white" />
   <img src="https://img.shields.io/badge/Disponible-Sí-FFCAD4?style=for-the-badge&labelColor=D8829D&logoColor=white" />
+  <img src="https://img.shields.io/badge/Potencial en aprendizaje-Sí-FFCAD4?style=for-the-badge&labelColor=D8829D&logoColor=white" />
 </p>
 
 <br/>
@@ -26,9 +27,9 @@
 ## 💖 Mi enfoque y Proyectos
 
 ### ✨ ¿Qué área me apasiona más?
-> *Aquí puedes describir tu área favorita (por ejemplo, Backend, Arquitectura de bases de datos, Seguridad o Cloud).*
-- **Área principal:** Especial interés en el desarrollo **Backend** y la gestión de datos/infraestructura: diseñar APIs seguras, modelar bases de datos eficientes y optimizar entornos contenerizados.
-- **Lo que más disfruto:** Resolver la lógica detrás de bambalinas, asegurar la integridad de la información y conectar servicios robustos y escalables.
+> *Me desenvuelvo mejor en frontend me encanta la idea de generar diseños armonicos para el usuario ademas de intuitivos y dinamicos. Sobre todo la parte de UX, al final la parte que ve el usuario provoca el uso de un sitio/app*
+- **Área principal:** Especial interés en el desarrollo **Frontend** , pero no solo eso lacreacion de APIs seguras me permite desenvolver mi logica y la resolucion de errores. 
+- **Lo que más disfruto:** Resolver problemas de diseño y encontrar errores tan pequeños pero importantes...
 
 ---
 
