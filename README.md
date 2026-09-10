@@ -33,10 +33,6 @@
 <!-- ================= ESTADÍSTICAS ================= -->
 ## 📊 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valenciaZuriel-cyber&show_icons=true&hide_border=true&title_color=14213D&icon_color=375A9E&text_color=8A8A8A&bg_color=00000000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valenciaZuriel-cyber&layout=compact&hide_border=true&title_color=14213D&text_color=8A8A8A&bg_color=00000000" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=valenciaZuriel-cyber&hide_border=true&background=00000000&ring=14213D&fire=375A9E&currStreakLabel=14213D" />
