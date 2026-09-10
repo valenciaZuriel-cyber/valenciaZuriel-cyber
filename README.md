@@ -18,8 +18,8 @@ Software developer focused on building intuitive, harmonious digital experiences
 
 - 🎀 Building accessible interfaces and exploring new technologies
 - 🪄 Proactive mindset centered on code quality, logic, and UX
--☕ Creative side: practicing latte art, enjoying K-dramas, and watching anime.
--🎮 Off-screen & play: building in Minecraft, drops in Fortnite, and quality family time.
+- ☕ Creative side: practicing latte art, enjoying K-dramas, and watching anime.
+- 🎮 Off-screen & play: building in Minecraft, drops in Fortnite, and quality family time.
 - 💌 Get in touch: **st4549@utr.edu.mx**
 
 <br clear="right"/>
