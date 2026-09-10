@@ -14,7 +14,7 @@
 
 <img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpbXQzeGRjMXIyc3h3Z291ZmFsNjNjZTZjZmM2cWI0dmxnY2N6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" alt="gatito escribiendo código"/>
 
-Desarrolladora de software orientada a la creación de experiencias digitales intuitivas y armónicas. Mi motor es la curiosidad técnica y la adaptabilidad: abordo cada reto como una oportunidad para aprender, iterar y destacar. Me motiva comprender tanto la interacción visual con el usuario como la solidez lógica detrás de bambalinas, aprovechando las herramientas tecnológicas modernas para optimizar resultados y resolver problemas complejos con atención al detalle.
+Desarrolladora de software orientada a la creación de experiencias digitales intuitivas y armónicas. Mi motor es la curiosidad técnica y la adaptabilidad: abordo cada reto como una oportunidad para aprender, iterar y destacar. Me motiva comprender tanto la interacción visual con el usuario como la solidez lógica, aprovechando las herramientas tecnológicas modernas para optimizar resultados y resolver problemas complejos con atención al detalle.
 
 - 🎀 Creando interfaces accesibles y explorando nuevas tecnologías
 - 🪄 Mentalidad proactiva enfocada en calidad, lógica y UX
@@ -55,4 +55,35 @@ Desarrolladora de software orientada a la creación de experiencias digitales in
   </tbody>
 </table>
 
-<br
+<br/>
+
+## 🌷 Stack Tecnológico
+
+### 💻 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&theme=light" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python&theme=light" />
+</p>
+
+### ☁️ Cloud & Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=light" />
+</p>
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valenciaZuriel-cyber&hide_border=true&background=00000000&ring=F4ACB7&fire=D8829D&currStreakLabel=D8829D" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4ACB7&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <sub>✨ Gracias por pasar por aquí ✨</sub>
+</p>
