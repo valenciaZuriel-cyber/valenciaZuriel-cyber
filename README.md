@@ -28,7 +28,7 @@
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb&theme=light" />
 </p>
 
 ### ☁️ Cloud & DevOps
