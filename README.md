@@ -14,7 +14,7 @@
 
 <img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpbXQzeGRjMXIyc3h3Z291ZmFsNjNjZTZjZmM2cWI0dmxnY2N6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" alt="gatito escribiendo código"/>
 
-Desarrolladora de software orientada a la creación de experiencias digitales intuitivas y armónicas. Mi motor es la curiosidad técnica y la adaptabilidad: abordo cada reto como una oportunidad para aprender, iterar y destacar. Me motiva comprender tanto la interacción visual con el usuario como la solidez lógica, aprovechando las herramientas tecnológicas modernas para optimizar resultados y resolver problemas complejos con atención al detalle.
+Desarrolladora de software orientada a la creación de experiencias digitales intuitivas y armónicas. Mi motor es la curiosidad técnica y la adaptabilidad: abordo cada reto como una oportunidad para aprender, iterar y destacar. Me motiva comprender tanto la interacción visual con el usuario como la solidez lógica detrás de bambalinas, aprovechando las herramientas tecnológicas modernas para optimizar resultados y resolver problemas complejos con atención al detalle.
 
 - 🎀 Creando interfaces accesibles y explorando nuevas tecnologías
 - 🪄 Mentalidad proactiva enfocada en calidad, lógica y UX
@@ -32,6 +32,8 @@ Desarrolladora de software orientada a la creación de experiencias digitales in
 ---
 
 ### 🚀 Proyectos destacados
+
+<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3VnbXpsNjNndXIzZ2p4bHkycmV4bXdqZWF1cGd4cmVvcmVkbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="espacio de trabajo con plantas"/>
 
 <table>
   <thead>
@@ -55,7 +57,7 @@ Desarrolladora de software orientada a la creación de experiencias digitales in
   </tbody>
 </table>
 
-<br/>
+<br clear="right"/>
 
 ## 🌷 Stack Tecnológico
 
