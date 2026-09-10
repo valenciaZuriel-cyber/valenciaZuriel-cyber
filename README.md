@@ -6,9 +6,8 @@
 
 <!-- ================= BADGES SÓLIDOS ================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Ubicación-Tu_Ciudad-14213D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubicación-Aguascalientes, México-14213D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Disponible-Sí-375A9E?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Café_por_día-3+-9AA5E8?style=for-the-badge&logoColor=white" />
 </p>
 
 <br/>
@@ -20,8 +19,7 @@
 
 - 🎀 Trabajando en algo nuevo por descubrir
 - 🪄 Aprendiendo constantemente
-- 💌 Contáctame: **tu_email@ejemplo.com**
-- 🌙 Dato curioso: escribo mejor código de noche
+- 💌 Contáctame: **st4549@utr.edu.mx**
 
 <br clear="right"/>
 
