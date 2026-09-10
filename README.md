@@ -1,12 +1,8 @@
 <!-- ================= BANNER SÓLIDO (navy) ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14213D&height=220&section=header&text=Hola,%20soy%20Tu%20Nombre&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20·%20Creador%20·%20Curioso&descAlignY=58&descSize=18&descColor=CDE0FF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14213D&height=220&section=header&text=Hola,%20soy%20Zuriel%20Valencia&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20·%20Creador%20·%20Curioso&descAlignY=58&descSize=18&descColor=CDE0FF" width="100%"/>
 </p>
 
-<!-- ================= "TYPING" PROPIO EN SVG (sin depender de demolab) ================= -->
-<p align="center">
-  <img src="./profile-assets/typing.svg" alt="Construyo cosas bonitas" />
-</p>
 
 <!-- ================= BADGES SÓLIDOS ================= -->
 <p align="center">
@@ -48,15 +44,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=valenciaZuriel-cyber&hide_border=true&background=00000000&ring=14213D&fire=375A9E&currStreakLabel=14213D" />
 </p>
 
-<!-- ================= SNAKE PROPIO (workflow incluido, ya que demolab lo desactivó) ================= -->
-## 🐍 Actividad reciente
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valenciaZuriel-cyber/valenciaZuriel-cyber/output/dist/snake.svg" />
-    <img src="https://raw.githubusercontent.com/valenciaZuriel-cyber/valenciaZuriel-cyber/output/dist/snake.svg" alt="snake animation" />
-  </picture>
-</p>
 
 <!-- ================= FOOTER SÓLIDO ================= -->
 <p align="center">
