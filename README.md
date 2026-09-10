@@ -33,7 +33,7 @@
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=light" />
 </p>
 
 ## 📊 Estadísticas
