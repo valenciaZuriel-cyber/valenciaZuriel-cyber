@@ -23,7 +23,7 @@ Desarrolladora de software orientada a la creación de experiencias digitales in
 <br clear="right"/>
 
 ## 💖 Mi enfoque y Proyectos
-
+<img align="right" width="220" src="https://giffiles.alphacoders.com/370/3703.gif"alt="programming"/>
 ### ✨ ¿Qué área me apasiona más?
 > *Me desenvuelvo con fluidez en el desarrollo Frontend y UX, donde diseño interfaces dinámicas, accesibles y consistentes que generan un impacto directo en la experiencia del usuario.*
 - **Área principal:** Especial interés en **Frontend & UX/UI**, complementado con la construcción de **APIs seguras** en backend para conectar interfaces ágiles con arquitecturas robustas y bien protegidas.
@@ -32,9 +32,6 @@ Desarrolladora de software orientada a la creación de experiencias digitales in
 ---
 
 ### 🚀 Proyectos destacados
-
-<img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3VnbXpsNjNndXIzZ2p4bHkycmV4bXdqZWF1cGd4cmVvcmVkbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="espacio de trabajo con plantas"/>
-
 <table>
   <thead>
     <tr>
